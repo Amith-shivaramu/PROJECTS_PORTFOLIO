@@ -12,4 +12,6 @@
 
   **TECHNOLOGY:** MS-Excel
 
+  ![EMPLOYESS WORKFORCE DASHBOARD](https://github.com/user-attachments/assets/073b81f7-11ad-4f4c-a1b1-94c3365a1743)
+
   

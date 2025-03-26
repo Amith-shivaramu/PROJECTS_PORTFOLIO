@@ -14,4 +14,5 @@
 
   ![EMPLOYESS WORKFORCE DASHBOARD](https://github.com/user-attachments/assets/073b81f7-11ad-4f4c-a1b1-94c3365a1743)
 
+   [CODE](https://github.com/user-attachments/files/19470592/Employee.Workforce.Data.xlsx)
   
